@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sunil Kumar Panda 
 - 👀 I’m interested in devopps
 - 🌱 I’m currently learning Web-dev
-- 📫 How to reach me at linked 'www.linkedin.com/in/sunil-panda-975782249'
+- 📫 How to reach me at linked [Sunil Panda](www.linkedin.com/in/sunil-panda-975782249)
 - 😄 Pronouns: ... he/him
 
 <!---
